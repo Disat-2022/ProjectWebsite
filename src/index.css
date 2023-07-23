@@ -1,0 +1,320 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+.navbar .navbar-brand{
+    font-size: 30px;
+    font-weight: 600;
+}
+ul li .nav-link{
+    font-size:20px;
+    font-weight: 500;
+}
+ul li a:hover{
+    color:#605dba!important
+}
+ul li a.active{
+    /* color: rgba(239, 6, 6, 0.977)!important; */
+    color: #605dba!important;
+}
+
+/* Home Page CSS Start */
+#home .home-content{
+    margin-top: 8rem!important;
+}
+.homepage-content{
+    font-size:50px;
+    font-weight:500;
+    line-height:1.15;
+}
+.home-img img{
+    margin-top: 3rem!important;
+}
+.contact-btn,.service-btn{
+    display: inline-flex;
+}
+.contact-btn .cbtn{
+    width: 150px;
+    height:50px;
+    border-radius: 10px;
+    background-color:#605dba;
+    color:#fff;
+    transition:all .2s ease-in-out
+}
+.service-btn .sbtn{
+    width: 200px;
+    height:50px;
+    border-radius: 10px;
+    margin-left: 10px;
+    transition:all .2s ease-in-out
+}
+p.text-muted {
+    font-size: 20px;
+}
+.homedata{
+    margin-top: 1.5rem;
+}
+.margin-bottom{
+    margin-bottom:1rem;
+}
+.footer-content{
+    margin-top:1.5rem;
+}
+.footer-icon{
+    font-size: 35px!important;
+}
+.footer-head{
+    font-size: 22px;
+    font-weight: 600;
+}
+.footer-navbar{
+    text-decoration: none;
+    color:#605dba;
+}
+h6 .footerhead-icon{
+    font-size: 35px;
+    margin-right: 18px;
+}
+/* Home Page CSS end */
+
+/* About Section CSS Start */
+section.about-sec2 {
+    margin-top: 15px;
+}
+.aboutrow-sec{
+    padding-top:3rem;
+}
+.about-us{
+    margin-bottom: 1rem;
+}
+/* About Section CSS End*/
+
+/* Service Section Start */
+.service-sec{
+    margin-top:3rem;
+}
+.card-border{
+    border:1px solid rgb(15, 112, 15)!important;
+}
+.service-taksec{
+    margin-top: 3rem!important;
+}
+.service-talk h5{
+    color:blue;
+    font-size:25px!important;
+}
+.service-talk h2{
+    color:#343f52!important;
+    font-weight:600!important;
+}
+.servicetalk-content{
+    margin-top: 1.5rem;
+}
+.servicetalk-content p{
+    font-size:20px;
+    font-weight: 500;
+}
+/* Service Section End */
+@media  (min-width: 320px) and (max-width: 567px)
+{
+    .navbar .navbar-brand{
+        font-size: 25px!important;
+        font-weight: 600;
+    }
+    .navbar-toggler{
+        padding:5px!important;
+    }
+    #home .home-content{
+        margin-top: 1.5rem!important;
+    }
+    .home-content{
+        margin-top:2rem!important;
+    }
+    h1.homepage-content{
+        font-size: 28px !important;
+    }
+    .service-btn .sbtn{
+        margin-top:10px;
+        margin-left:0px;
+        width:170px;
+    }
+    .res-img img{
+        height: 50px!important;
+    }
+    p.text-muted {
+        font-size: 14px;
+    }
+    #technology .text-center.mt-5 {
+        margin-top: 1rem!important;
+    }
+    .homedata{
+        margin-top: 0rem;
+    }
+    .margin-bottom{
+        margin-bottom:0rem;
+    }
+    .footer-content{
+        margin-top:0rem;
+    }
+    .footer-icon{
+        font-size: 26px!important;
+    }
+
+    /* About Section Start */
+
+    .aboutrow-sec{
+        padding-top:2rem;
+    }
+    .about-us{
+        margin-bottom: 0.6rem;
+    }
+    /* About Section End */
+
+    /* Service Section Start */
+    .service-sec{
+        margin-top:0rem;
+    }
+    .card-border{
+        border:none!important;
+    }
+    .service-taksec{
+        margin-top: 1.8rem!important;
+    }
+    .service-talk h5{
+        font-size: 16px!important;
+    }
+    .service-talk h2{
+        font-weight:500!important;
+    }
+    .servicetalk-content{
+        margin-top: 1rem;
+    }
+    .servicetalk-content p{
+        font-size:17px;
+    }
+    /* Service Section End */
+}
+
+@media  (min-width: 568px) and (max-width: 767px)
+{
+    h1.homepage-content{
+        font-size: 35px !important;
+    }
+    #home .home-content{
+        margin-top: 2rem!important;
+    }
+    .home-img img{
+        margin-top: 2rem!important;
+    }
+    .footer-content p{
+        font-size: 21px;
+    }
+    .footer-address h6{
+        font-size: 18px;
+    }
+    /* Service section start */
+    .service-talk h5{
+        font-size:23px!important;
+    }
+    /* Service section end */
+}
+@media  (min-width: 768px) and (max-width: 1024px)
+{
+    h6 .footerhead-icon{
+        font-size: 30px;
+        margin-right: 10px;
+    }
+    #home .home-content{
+        margin-top: 3rem!important;
+    }
+    .service-btn .sbtn{
+        margin-top:10px;
+        width: auto;
+        margin-left: 0px;
+    }
+    .contact-card h4{
+        font-size: 24px!important;
+    }
+    .contact-card p{
+        font-size: 19px!important;
+    }
+    .footer-address h6{
+        font-size: 19px;
+    }
+    .footer-content p{
+        font-size: 19px;
+    }
+    .footer-navbar{
+        font-size: 21px;
+    }
+}
+
+/* Media Query Section End */
+#home .animated{
+    animation:up-down 3s ease-in-out infinite alternate-reverse both;
+}
+
+#technology .tech-animation{
+    animation:right-left 3s ease-in-out infinite alternate-reverse both;
+}
+#technology .animated{
+    animation:left-right 3s ease-in-out infinite alternate-reverse both;
+}
+#about .animated{
+    animation: left-right 3s ease-in-out infinite alternate-reverse both;
+}
+
+#service .service-animation{
+    animation: sup-sdown 3s ease-in-out infinite alternate-reverse both;
+}
+#loginreg .animated{
+    animation: loup-lodown 3s ease-in-out infinite alternate-reverse both;
+}
+@keyframes up-down {
+    0%{
+        transform: translateX(12px);
+    }
+    100%{
+        transform: translateX(-12px);
+    }
+}
+@keyframes right-left {
+    0%{
+        transform: translateX(-11px);
+    }
+    100%{
+        transform: translateX(10px);
+    }
+}
+
+@keyframes left-right {
+    0%{
+        transform: translateX(11px);
+    }
+    100%{
+        transform: translateX(-10px);
+    }
+}
+@keyframes sup-sdown {
+    0%{
+        transform: translateY(10px);
+    }
+    100%{
+        transform: translateY(-10px);
+    }
+}
+@keyframes loup-lodown {
+    0%{
+        transform: translateY(12px);
+    }
+    100%{
+        transform: translateY(-8px);
+    }
+}
+/* figure .shadow-img{
+    width:100%;
+    max-width: 100%;
+    height: auto!important;
+} */
+
