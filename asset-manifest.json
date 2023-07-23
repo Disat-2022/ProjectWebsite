@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/ProjectWebsite/static/css/main.e79146e4.css",
+    "main.js": "/ProjectWebsite/static/js/main.e2fbbc29.js",
+    "static/js/787.bffbcdc7.chunk.js": "/ProjectWebsite/static/js/787.bffbcdc7.chunk.js",
+    "static/media/home2.png": "/ProjectWebsite/static/media/home2.9253837ca8931ae1a787.png",
+    "static/media/service7.png": "/ProjectWebsite/static/media/service7.4d96b92e1b7f38e01993.png",
+    "static/media/home1.png": "/ProjectWebsite/static/media/home1.60d0f2ba00e31f1d73c8.png",
+    "static/media/aboutpic.png": "/ProjectWebsite/static/media/aboutpic.6f42aea7f21b6af57a78.png",
+    "static/media/service6.png": "/ProjectWebsite/static/media/service6.09639c6bccfa292a8638.png",
+    "static/media/Loginpage.svg": "/ProjectWebsite/static/media/Loginpage.6983ad03eff476119c88c8469600b47c.svg",
+    "static/media/dif1.png": "/ProjectWebsite/static/media/dif1.e353cf9b3d1bf525a59c.png",
+    "static/media/dif3.png": "/ProjectWebsite/static/media/dif3.dd26c7238f5fb574305c.png",
+    "static/media/service2.png": "/ProjectWebsite/static/media/service2.89a4bac80c6fd215aa20.png",
+    "static/media/service1.png": "/ProjectWebsite/static/media/service1.6b43ee7c655f205d7c60.png",
+    "static/media/dif2.png": "/ProjectWebsite/static/media/dif2.1132c57c2fbba53f6d2a.png",
+    "static/media/dif4.png": "/ProjectWebsite/static/media/dif4.a702d2ac2bbd348fa52d.png",
+    "static/media/service4.png": "/ProjectWebsite/static/media/service4.e48ac8240616bb44899e.png",
+    "static/media/home3.png": "/ProjectWebsite/static/media/home3.dc7fa1534fab98f5e848.png",
+    "static/media/service3.png": "/ProjectWebsite/static/media/service3.bc8e30dba0f871be2a07.png",
+    "static/media/datascience.png": "/ProjectWebsite/static/media/datascience.d6d7b3aaaa050e324331.png",
+    "static/media/react.png": "/ProjectWebsite/static/media/react.de561ecaba23e46b0575.png",
+    "static/media/service5.png": "/ProjectWebsite/static/media/service5.ea3ecbf6acbd5e6ad26d.png",
+    "static/media/python.png": "/ProjectWebsite/static/media/python.6399df7ba0ce1b85e59a.png",
+    "index.html": "/ProjectWebsite/index.html",
+    "main.e79146e4.css.map": "/ProjectWebsite/static/css/main.e79146e4.css.map",
+    "main.e2fbbc29.js.map": "/ProjectWebsite/static/js/main.e2fbbc29.js.map",
+    "787.bffbcdc7.chunk.js.map": "/ProjectWebsite/static/js/787.bffbcdc7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e79146e4.css",
+    "static/js/main.e2fbbc29.js"
+  ]
+}
